@@ -1,8 +1,7 @@
 package practice.warmup_1
 
 /**
- * Created by laduke on 5/23/2017.
- * Copyright apdev
+ * Created by dladukedev on 5/23/2017
  */
 
 val target = 10

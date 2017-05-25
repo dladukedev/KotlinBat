@@ -7,8 +7,7 @@ import practice.warmup_1.parrotTrouble
 import practice.warmup_1.startSafeHours
 
 /**
- * Created by laduke on 5/23/2017.
- * Copyright apdev
+ * Created by dladukedev on 5/23/2017
  */
 
 class parrotTrouble_tests {

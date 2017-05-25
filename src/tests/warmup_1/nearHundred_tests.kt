@@ -5,8 +5,7 @@ import org.junit.jupiter.api.Test
 import practice.warmup_1.nearHundred
 
 /**
- * Created by laduke on 5/23/2017.
- * Copyright apdev
+ * Created by dladukedev on 5/23/2017
  */
 
 class nearHundred_tests {

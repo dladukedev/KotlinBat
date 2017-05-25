@@ -7,8 +7,7 @@ import org.junit.jupiter.api.Test
 import practice.warmup_1.makes10
 
 /**
- * Created by laduke on 5/23/2017.
- * Copyright apdev
+ * Created by dladukedev on 5/23/2017
  */
 
 class makes10_tests {
